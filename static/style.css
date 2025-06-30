@@ -1,0 +1,28 @@
+
+body { 
+    font-family: Arial, sans-serif;
+     background: #f7f7f7; 
+}
+h1 
+{ color: #007b5e; 
+}
+.article { 
+    background: #fff; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 6px #ccc; 
+}
+.date { 
+    color: #888; 
+    font-size: 0.9em; 
+}
+.categorie { 
+    color: #007b5e; 
+    font-weight: bold; 
+}
+/* li:hover { 
+    background: #007b5e; 
+    color: #fff;
+    font-size: 16px;
+} */
